@@ -133,9 +133,6 @@ document.addEventListener("DOMContentLoaded", function () {
             link.style.color = '#fff'; 
             link.href = game.link;
 
-            
-            
-
             // Use a div instead of an anchor tag to prevent redirection
             const linkContainer = document.createElement('div');
             linkContainer.style.background='transparent';
@@ -146,9 +143,6 @@ document.addEventListener("DOMContentLoaded", function () {
             title.classList.add('text-center');
             title.textContent = game.title;
             
-            
-
-
             linkContainer.appendChild(title);
             card.appendChild(linkContainer);
             carousel.appendChild(card);
