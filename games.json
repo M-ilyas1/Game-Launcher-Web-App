@@ -1,46 +1,50 @@
 [
-    {
-      "title": "Jewels Kyodai",
-      "image": "./asset/images/Jewels-Kyodia.JPG",
-      "link": "https://cdn.htmlgames.com/JewelsKyodai/"
-    },
-    {
-      "title": "Emoji Match",
-      "image": "asset/images/Emoji-Match.PNG",
-      "link": "https://cdn.htmlgames.com/EmojiMatch3/"
-    },
-
-    {
-        "title": "Pinball Breakout",
-        "image": "asset/images/Pinball-Breakout.PNG",
-        "link": "https://cdn.htmlgames.com/PinballBreakout/"
-      },
-      {
-        "title": "Sort Bubbles",
-        "image": "./asset/images/Sort-Bubbles.PNG",
-        "link": "https://cdn.htmlgames.com/SortBubbles/"
-      },
-
-      {
-        "title": "Traffic Racer",
-        "image": "./asset/images/Traffic-Racer.PNG",
-        "link": "https://cdn.htmlgames.com/TrafficRacer2/"
-      },
-      {
-        "title": "Christmas Merge",
-        "image": "./asset/images/Christmas-Merge.PNG",
-        "link": "https://cdn.htmlgames.com/ChristmasMerge/"
-      },
-      {
-        "title": "Thieves of Egypt Solitaire",
-        "image": "./asset/images/Thieves-of-Egypt-Solitaire.PNG",
-        "link": "https://cdn.htmlgames.com/ThievesOfEgyptSolitaire/"
-      },
-
-      {
-        "title": "Jungle Link",
-        "image": "./asset/images/Jungle-Link.PNG",
-        "link": "https://cdn.htmlgames.com/JungleLink/"
-      }
-  ]
-  
+  {
+    "title": "Jewels Kyodai",
+    "image": "./asset/images/Jewels-Kyodia.JPG",
+    "link": "https://cdn.htmlgames.com/JewelsKyodai/",
+    "description": "A classic jewel-matching game to test your concentration and pattern recognition skills."
+  },
+  {
+    "title": "Emoji Match",
+    "image": "asset/images/Emoji-Match.PNG",
+    "link": "https://cdn.htmlgames.com/EmojiMatch3/",
+    "description": "Match the emojis and create delightful combinations in this fun emoji matching game."
+  },
+  {
+    "title": "Pinball Breakout",
+    "image": "asset/images/Pinball-Breakout.PNG",
+    "link": "https://cdn.htmlgames.com/PinballBreakout/",
+    "description": "Combine the excitement of pinball with the challenge of breakout in this unique gaming experience."
+  },
+  {
+    "title": "Sort Bubbles",
+    "image": "./asset/images/Sort-Bubbles.PNG",
+    "link": "https://cdn.htmlgames.com/SortBubbles/",
+    "description": "Test your quick thinking and sorting skills as you match and pop bubbles in this engaging game."
+  },
+  {
+    "title": "Traffic Racer",
+    "image": "./asset/images/Traffic-Racer.PNG",
+    "link": "https://cdn.htmlgames.com/TrafficRacer2/",
+    "description": "Experience the thrill of traffic racing as you navigate through the city in this adrenaline-pumping game."
+  },
+  {
+    "title": "Christmas Merge",
+    "image": "./asset/images/Christmas-Merge.PNG",
+    "link": "https://cdn.htmlgames.com/ChristmasMerge/",
+    "description": "Celebrate the festive season by merging Christmas-themed items in this joyful merge game."
+  },
+  {
+    "title": "Thieves of Egypt Solitaire",
+    "image": "./asset/images/Thieves-of-Egypt-Solitaire.PNG",
+    "link": "https://cdn.htmlgames.com/ThievesOfEgyptSolitaire/",
+    "description": "Enjoy a classic game of solitaire with an Egyptian twist in this captivating card game."
+  },
+  {
+    "title": "Jungle Link",
+    "image": "./asset/images/Jungle-Link.PNG",
+    "link": "https://cdn.htmlgames.com/JungleLink/",
+    "description": "Embark on a jungle adventure by linking matching tiles in this exciting puzzle game."
+  }
+]
