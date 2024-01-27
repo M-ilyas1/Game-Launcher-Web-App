@@ -1,11 +1,5 @@
 [
   {
-    "title": "Jewels Kyodai",
-    "image": "./asset/images/Jewels-Kyodia.png",
-    "link": "https://cdn.htmlgames.com/JewelsKyodai/",
-    "description": "A classic jewel-matching game to test your concentration and pattern recognition skills."
-  },
-  {
     "title": "Emoji Match",
     "image": "asset/images/Emoji-Match.PNG",
     "link": "https://cdn.htmlgames.com/EmojiMatch3/",
@@ -16,6 +10,12 @@
     "image": "asset/images/Pinball-Breakout.PNG",
     "link": "https://cdn.htmlgames.com/PinballBreakout/",
     "description": "Combine the excitement of pinball with the challenge of breakout in this unique gaming experience."
+  },
+  {
+    "title": "Jungle Link",
+    "image": "./asset/images/Jungle-Link.PNG",
+    "link": "https://cdn.htmlgames.com/JungleLink/",
+    "description": "Embark on a jungle adventure by linking matching tiles in this exciting puzzle game."
   },
   {
     "title": "Sort Bubbles",
